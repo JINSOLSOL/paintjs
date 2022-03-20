@@ -21,6 +21,11 @@ function stopPainting() {
   painting = false;
 }
 
+function stopPainting123g() {
+  painting = false;
+}
+
+
 function startPainting() {
   painting = true;
 }
