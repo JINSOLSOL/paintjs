@@ -18,14 +18,8 @@ let painting = false;
 let filling = false;
 
 function stopPainting() {
-  asdlkfjalskdasdlkfjkl;
   painting = false;
 }
-
-function stopPainting123g() {
-  painting = false;
-}
-
 
 function startPainting() {
   painting = true;
